@@ -1,0 +1,5 @@
+# Input files
+*.txt
+
+# Template file
+advent_day_x.py
